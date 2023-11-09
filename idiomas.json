@@ -1,0 +1,534 @@
+[
+    {
+      "id": 0,
+      "nombre": "Afrikáans"
+    },
+    {
+      "id": 1,
+      "nombre": "Aimara"
+    },
+    {
+      "id": 2,
+      "nombre": "Akan"
+    },
+    {
+      "id": 3,
+      "nombre": "Albanés"
+    },
+    {
+      "id": 4,
+      "nombre": "Alemán"
+    },
+    {
+      "id": 5,
+      "nombre": "Amárico"
+    },
+    {
+      "id": 6,
+      "nombre": "Árabe"
+    },
+    {
+      "id": 7,
+      "nombre": "Armenio"
+    },
+    {
+      "id": 8,
+      "nombre": "Asamés"
+    },
+    {
+      "id": 9,
+      "nombre": "Azerbaiyano"
+    },
+    {
+      "id": 10,
+      "nombre": "Bambara"
+    },
+    {
+      "id": 11,
+      "nombre": "Bengalí"
+    },
+    {
+      "id": 12,
+      "nombre": "Bhoyapurí"
+    },
+    {
+      "id": 13,
+      "nombre": "Bielorruso"
+    },
+    {
+      "id": 14,
+      "nombre": "Birmano"
+    },
+    {
+      "id": 15,
+      "nombre": "Bosnio"
+    },
+    {
+      "id": 16,
+      "nombre": "Búlgaro"
+    },
+    {
+      "id": 17,
+      "nombre": "Canarés"
+    },
+    {
+      "id": 18,
+      "nombre": "Catalán"
+    },
+    {
+      "id": 19,
+      "nombre": "Cebuano"
+    },
+    {
+      "id": 20,
+      "nombre": "Checo"
+    },
+    {
+      "id": 21,
+      "nombre": "Chino (Simplificado)"
+    },
+    {
+      "id": 22,
+      "nombre": "Chino (Tradicional)"
+    },
+    {
+      "id": 23,
+      "nombre": "Cingalés"
+    },
+    {
+      "id": 24,
+      "nombre": "Coreano"
+    },
+    {
+      "id": 25,
+      "nombre": "Corso"
+    },
+    {
+      "id": 26,
+      "nombre": "Criollo haitiano"
+    },
+    {
+      "id": 27,
+      "nombre": "Croata"
+    },
+    {
+      "id": 28,
+      "nombre": "Danés"
+    },
+    {
+      "id": 29,
+      "nombre": "Divehi"
+    },
+    {
+      "id": 30,
+      "nombre": "Dogri"
+    },
+    {
+      "id": 31,
+      "nombre": "Eslovaco"
+    },
+    {
+      "id": 32,
+      "nombre": "Esloveno"
+    },
+    {
+      "id": 33,
+      "nombre": "Español"
+    },
+    {
+      "id": 34,
+      "nombre": "Esperanto"
+    },
+    {
+      "id": 35,
+      "nombre": "Estonio"
+    },
+    {
+      "id": 36,
+      "nombre": "Euskera"
+    },
+    {
+      "id": 37,
+      "nombre": "Ewé"
+    },
+    {
+      "id": 38,
+      "nombre": "Finés"
+    },
+    {
+      "id": 39,
+      "nombre": "Francés"
+    },
+    {
+      "id": 40,
+      "nombre": "Frisón occidental"
+    },
+    {
+      "id": 41,
+      "nombre": "aélico escocés"
+    },
+    {
+      "id": 42,
+      "nombre": "Galés"
+    },
+    {
+      "id": 43,
+      "nombre": "Gallego"
+    },
+    {
+      "id": 44,
+      "nombre": "Ganda"
+    },
+    {
+      "id": 45,
+      "nombre": "Georgiano"
+    },
+    {
+      "id": 46,
+      "nombre": "Goan Konkani"
+    },
+    {
+      "id": 47,
+      "nombre": "Griego"
+    },
+    {
+      "id": 48,
+      "nombre": "Guaraní"
+    },
+    {
+      "id": 49,
+      "nombre": "Guyaratí"
+    },
+    {
+      "id": 50,
+      "nombre": "Hausa"
+    },
+    {
+      "id": 51,
+      "nombre": "Hawaiano"
+    },
+    {
+      "id": 52,
+      "nombre": "Hebreo"
+    },
+    {
+      "id": 53,
+      "nombre": "Hindi"
+    },
+    {
+      "id": 54,
+      "nombre": "Hmong"
+    },
+    {
+      "id": 55,
+      "nombre": "Húngaro"
+    },
+    {
+      "id": 56,
+      "nombre": "Igbo"
+    },
+    {
+      "id": 57,
+      "nombre": "Ilocano"
+    },
+    {
+      "id": 58,
+      "nombre": "Indonesio"
+    },
+    {
+      "id": 59,
+      "nombre": "Inglés"
+    },
+    {
+      "id": 60,
+      "nombre": "Irlandés"
+    },
+    {
+      "id": 61,
+      "nombre": "Islandés"
+    },
+    {
+      "id": 62,
+      "nombre": "Italiano"
+    },
+    {
+      "id": 63,
+      "nombre": "Japonés"
+    },
+    {
+      "id": 64,
+      "nombre": "Javanés"
+    },
+    {
+      "id": 65,
+      "nombre": "Jemer"
+    },
+    {
+      "id": 66,
+      "nombre": "Kazajo"
+    },
+    {
+      "id": 67,
+      "nombre": "Kinyarwanda"
+    },
+    {
+      "id": 68,
+      "nombre": "Kirguís"
+    },
+    {
+      "id": 69,
+      "nombre": "Krio"
+    },
+    {
+      "id": 70,
+      "nombre": "Kurdo"
+    },
+    {
+      "id": 71,
+      "nombre": "Kurdo sorani"
+    },
+    {
+      "id": 72,
+      "nombre": "Lao"
+    },
+    {
+      "id": 73,
+      "nombre": "Latín"
+    },
+    {
+      "id": 74,
+      "nombre": "Letón"
+    },
+    {
+      "id": 75,
+      "nombre": "Lingala"
+    },
+    {
+      "id": 76,
+      "nombre": "Lituano"
+    },
+    {
+      "id": 77,
+      "nombre": "Luxemburgués"
+    },
+    {
+      "id": 78,
+      "nombre": "Macedonio"
+    },
+    {
+      "id": 79,
+      "nombre": "Maithili"
+    },
+    {
+      "id": 80,
+      "nombre": "Malayálam"
+    },
+    {
+      "id": 81,
+      "nombre": "Malayo"
+    },
+    {
+      "id": 82,
+      "nombre": "Malgache"
+    },
+    {
+      "id": 83,
+      "nombre": "Maltés"
+    },
+    {
+      "id": 84,
+      "nombre": "Manipurí"
+    },
+    {
+      "id": 85,
+      "nombre": "Maorí"
+    },
+    {
+      "id": 86,
+      "nombre": "Maratí"
+    },
+    {
+      "id": 87,
+      "nombre": "Mizo"
+    },
+    {
+      "id": 88,
+      "nombre": "Mongol"
+    },
+    {
+      "id": 89,
+      "nombre": "Neerlandés"
+    },
+    {
+      "id": 90,
+      "nombre": "Nepalí"
+    },
+    {
+      "id": 91,
+      "nombre": "Noruego"
+    },
+    {
+      "id": 92,
+      "nombre": "Nyanja"
+    },
+    {
+      "id": 93,
+      "nombre": "Oriya"
+    },
+    {
+      "id": 94,
+      "nombre": "Oromo"
+    },
+    {
+      "id": 95,
+      "nombre": "Pastún"
+    },
+    {
+      "id": 96,
+      "nombre": "Persa"
+    },
+    {
+      "id": 97,
+      "nombre": "Polaco"
+    },
+    {
+      "id": 98,
+      "nombre": "Portugués"
+    },
+    {
+      "id": 99,
+      "nombre": "Punyabí"
+    },
+    {
+      "id": 100,
+      "nombre": "Quechua"
+    },
+    {
+      "id": 101,
+      "nombre": "Rumano"
+    },
+    {
+      "id": 102,
+      "nombre": "Ruso"
+    },
+    {
+      "id": 103,
+      "nombre": "Samoano"
+    },
+    {
+      "id": 104,
+      "nombre": "Sánscrito"
+    },
+    {
+      "id": 105,
+      "nombre": "Serbio"
+    },
+    {
+      "id": 106,
+      "nombre": "Shona"
+    },
+    {
+      "id": 107,
+      "nombre": "Sindi"
+    },
+    {
+      "id": 108,
+      "nombre": "Somalí"
+    },
+    {
+      "id": 109,
+      "nombre": "Sotho meridional"
+    },
+    {
+      "id": 110,
+      "nombre": "Sotho septentrional"
+    },
+    {
+      "id": 111,
+      "nombre": "Suajili"
+    },
+    {
+      "id": 112,
+      "nombre": "Sueco"
+    },
+    {
+      "id": 113,
+      "nombre": "Sundanés"
+    },
+    {
+      "id": 114,
+      "nombre": "Tagalo"
+    },
+    {
+      "id": 115,
+      "nombre": "Tailandés"
+    },
+    {
+      "id": 116,
+      "nombre": "Tamil"
+    },
+    {
+      "id": 117,
+      "nombre": "Tártaro"
+    },
+    {
+      "id": 118,
+      "nombre": "Tayiko"
+    },
+    {
+      "id": 119,
+      "nombre": "Telugu"
+    },
+    {
+      "id": 120,
+      "nombre": "Tigriña"
+    },
+    {
+      "id": 121,
+      "nombre": "Tsonga"
+    },
+    {
+      "id": 122,
+      "nombre": "Turco"
+    },
+    {
+      "id": 123,
+      "nombre": "Turcomano"
+    },
+    {
+      "id": 124,
+      "nombre": "Ucraniano"
+    },
+    {
+      "id": 125,
+      "nombre": "Uigur"
+    },
+    {
+      "id": 126,
+      "nombre": "Urdu"
+    },
+    {
+      "id": 127,
+      "nombre": "Uzbeko"
+    },
+    {
+      "id": 128,
+      "nombre": "Vietnamita"
+    },
+    {
+      "id": 129,
+      "nombre": "Xhosa"
+    },
+    {
+      "id": 130,
+      "nombre": "Yidis"
+    },
+    {
+      "id": 131,
+      "nombre": "Yoruba"
+    },
+    {
+      "id": 132,
+      "nombre": "Zulú"
+    }
+  ]
